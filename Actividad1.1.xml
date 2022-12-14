@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+
+<Libro>
+    <Autores>
+        <Autor1>
+            <Apellido1></Apellido1>
+            <Apellido2></Apellido2>
+            <Nombre></Nombre>
+        </Autor1>
+        <Autor2>
+            <Apellido1></Apellido1>
+            <Apellido2></Apellido2>
+            <Nombre></Nombre>
+        </Autor2>
+    </Autores>
+    <Título></Título>
+    <FechaDePublicación></FechaDePublicación>
+    <Editorial></Editorial>
+    <ISBN></ISBN>
+</Libro>
